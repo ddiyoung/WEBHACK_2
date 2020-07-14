@@ -1,0 +1,25 @@
+#pr{
+    border-bottom : 3px solid black;
+}
+#title{
+    text-align : center;
+}
+.wr{
+    text-align : right;
+    font-size : 30px;
+}
+h1 {
+    font-size : 60px;
+    margin-bottom: 0px;
+}
+a{
+    color:black;
+    text-decoration : none;
+}
+
+#comment {
+	width: 100%;
+	height: 500px;
+	background : url("https://gigazine.kr/data/editor/2002/249977864_joQTucH7_30f610734f96b2da8b3bf713660998d114cccda1.jpg");
+
+}
